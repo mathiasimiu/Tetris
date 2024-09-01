@@ -1,4 +1,4 @@
-**MyTetris - README**
+<h3>**MyTetris - README**</h3>
 
 **Table of Contents**
 
